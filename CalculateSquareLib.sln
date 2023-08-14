@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareLib", "CalculateSquareLib\CalculateSquareLib.csproj", "{7E859C16-9C37-45F1-97B6-98DC42366F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareLib.Tests", "CalculateSquareLib.Tests\CalculateSquareLib.Tests.csproj", "{A433E4C8-7648-4BC4-A70D-7B0754E6AAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E859C16-9C37-45F1-97B6-98DC42366F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E859C16-9C37-45F1-97B6-98DC42366F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E859C16-9C37-45F1-97B6-98DC42366F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E859C16-9C37-45F1-97B6-98DC42366F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A433E4C8-7648-4BC4-A70D-7B0754E6AAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A433E4C8-7648-4BC4-A70D-7B0754E6AAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A433E4C8-7648-4BC4-A70D-7B0754E6AAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A433E4C8-7648-4BC4-A70D-7B0754E6AAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
